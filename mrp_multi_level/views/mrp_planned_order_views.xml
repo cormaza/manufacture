@@ -93,7 +93,7 @@
                     domain="[('mrp_planner_id', '=', uid)]"
                 />
                 <filter string="Fixed" name="fixed" domain="[('fixed','=',True)]" />
-                <group name='group_by' expand="0" string="Group By...">
+                <group name='group_by'>
                     <filter
                         name='product_parameters'
                         string="Product Parameters"
