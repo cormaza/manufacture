@@ -1,0 +1,13 @@
+---Models in module 'mrp_multi_level'---
+---Fields in module 'mrp_multi_level'---
+---XML records in module 'mrp_multi_level'---
+NEW ir.ui.view: mrp_multi_level.mrp_area_list
+NEW ir.ui.view: mrp_multi_level.mrp_inventory_list
+NEW ir.ui.view: mrp_multi_level.mrp_move_view_list
+NEW ir.ui.view: mrp_multi_level.mrp_planned_order_view_list
+NEW ir.ui.view: mrp_multi_level.product_mrp_area_list
+DEL ir.ui.view: mrp_multi_level.mrp_area_tree
+DEL ir.ui.view: mrp_multi_level.mrp_inventory_tree
+DEL ir.ui.view: mrp_multi_level.mrp_move_view_tree
+DEL ir.ui.view: mrp_multi_level.mrp_planned_order_view_tree
+DEL ir.ui.view: mrp_multi_level.product_mrp_area_tree
